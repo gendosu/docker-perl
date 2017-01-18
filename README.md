@@ -6,4 +6,4 @@ change TimeZone by `Asia/Tokyo`
 
 # Supported tags and respective Dockerfile links
 
-* `latest`, `alpine` [(Dockerfile)](https://github.com/gendosu/docker-perl)
+* `latest` [(Dockerfile)](https://github.com/gendosu/docker-perl)
